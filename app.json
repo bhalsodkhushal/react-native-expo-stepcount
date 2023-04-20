@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Calories4Earth",
-    "slug": "calories4earth",
+    "name": "StepCount",
+    "slug": "stepcount",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.devopsinternational.calories4earth"
+      "package": "com.devopsinternational.stepcount"
     },
     "web": {
       "favicon": "./assets/favicon.png"

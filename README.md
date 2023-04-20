@@ -1,7 +1,7 @@
 <!-- Title -->
 <p align="center">
   <a href="https://github.com/expo/examples">
-    <h1 align="center">Calories4Earth - React Native Expo App</h1>
+    <h1 align="center">StepCount - React Native Expo App</h1>
   </a>
 </p>
 
